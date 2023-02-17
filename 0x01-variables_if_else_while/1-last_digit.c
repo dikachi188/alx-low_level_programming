@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
 /**
  *  main - A progarm that print a line using the print function
  * Return: 0 (success)
